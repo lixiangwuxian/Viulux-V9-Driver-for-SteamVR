@@ -25,3 +25,5 @@ To Do:
 具体可以参考Relativity的显示配置部分，我的配置参数只能保证自己姑且算正常使用。
 
 //待补全
+
+又及：官方只能当视频播放器的辣鸡驱动Viulux Clan的[下载地址](https://wwi.lanzouw.com/ieijMy1d1hg)
