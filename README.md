@@ -1,5 +1,5 @@
 # Viulux-V9-Driver-for-SteamVR
-将Relativty驱动和OpenHMD缝合而成的Steam VR驱动。姑且可以正常使用。
+将[Relativty](https://github.com/relativty/Relativty)驱动和[OpenHMD](https://github.com/OpenHMD/OpenHMD)缝合而成的Steam VR驱动。姑且可以使用。
 可配合Relaivty的摄像头全身追踪。
 
 水平有限，Bug在所难免。
@@ -7,7 +7,7 @@
 bug:
 
 1. 偶尔启动SteamVR屏幕显示全红，重启SteamVR即可。
-2. 头部转动时偶而会抽搐。原因我不知道。
+2. 头部转动偶而会抽搐。原因我不知道。
 
 可用功能：
 
