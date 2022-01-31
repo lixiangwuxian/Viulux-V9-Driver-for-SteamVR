@@ -1,7 +1,7 @@
 # Viulux-V9-Driver-for-SteamVR
 将[Relativty](https://github.com/relativty/Relativty)驱动和[OpenHMD](https://github.com/OpenHMD/OpenHMD)缝合而成的Steam VR驱动。姑且可以使用。
 
-~~可配合Relaivty的摄像头全身追踪。~~ 1.2版本之后移除了Relativty的人体识别部分代码，实现位置追踪只能使用Nolo套件
+~~可配合Relaivty的摄像头全身追踪。~~ 0.1.2版本之后移除了Relativty的人体识别部分代码，实现位置追踪只能使用Nolo套件
 
 水平有限，Bug在所难免。
 
