@@ -1,5 +1,10 @@
 # Viulux-V9-Driver-for-SteamVR
-将[Relativty](https://github.com/relativty/Relativty)驱动和[OpenHMD](https://github.com/OpenHMD/OpenHMD)缝合而成的Steam VR驱动。
+
+开源地址： [Viulux Driver](https://github.com/lixiangwuxian/Viulux-Driver)
+
+将[Relativty](https://github.com/relativty/Relativty)驱动和~~[OpenHMD](https://github.com/OpenHMD/OpenHMD)~~缝合而成的Steam VR驱动。
+
+注：OpenHMD不用了，头显追踪直接从nolo server拿数据。
 
 **我不保证此驱动一定能正常使用，也不会对使用此驱动所造成的任何后果负责，使用者应自己承担责任。**
 
@@ -13,8 +18,7 @@ bug:
 
 1. 前一次启动SteamVR时VR视图未关，再次启动时头显屏幕只会显示一片红色，重启SteamVR即可。
 2. 启动时有时某个手柄不会显示。重启SteamVR直至两个手柄都能显示即可。
-3. 系统键不能正常使用。按键能正常检测，原因未知。
-
+3. 系统键呼不出系统菜单。按键能正常检测，原因未知。
 
 可用功能：
 
