@@ -37,9 +37,9 @@ To Do:
 
 食用方法：
 
-~~在[Releases](https://github.com/lixiangwuxian/Viulux-V9-Driver-for-SteamVR/releases)里面下载所需版本的驱动,解压至SteamVr的driver目录下，
+~~在[Releases](https://github.com/lixiangwuxian/Viulux-V9-Driver-for-SteamVR/releases)里面下载所需版本的驱动,解压至SteamVr的driver目录下，~~
 
-请至[Viulux Driver](https://github.com/lixiangwuxian/Viulux-Driver)下载源码自行编译，具体安装及显示配置可以参考Relativity的显示配置部分。
+请至[Viulux Driver](https://github.com/lixiangwuxian/Viulux-Driver)下载源码自行编译，具体安装及显示配置可以参考Relativty的安装配置部分。
 
 //待补全
 
